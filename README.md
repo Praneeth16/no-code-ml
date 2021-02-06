@@ -1,10 +1,10 @@
-# no-code-nlp
+# no-code-ml
 
-A No-Code platform to perform Bulk Labelling, Analyzing and Performing Various NLP tasks.
+A No-Code platform to perform Bulk Labelling, Analyzing and Performing Various ML tasks.
 
 ### Why?
 Provide a starting point to perform basic NLP tasks.
 - Bulk Labelling
-- Insights from Text Data
-- Text Classification
-- Sentiment Analysis
+- Insights into Data
+- Model Building 
+- Model Explainability.
